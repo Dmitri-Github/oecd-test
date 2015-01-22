@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="OECD_TestApp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="testapp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="OECD_TestApp:war exploded" />
+    </root>
+  </artifact>
+</component>
